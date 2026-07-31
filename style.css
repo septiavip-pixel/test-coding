@@ -13,7 +13,7 @@ body{
 header{
     display:flex;
     justify-content:space-between;
-    align-items:center;
+    align-items:top right;
     padding:20px 60px;
     background:#111827;
 }
